@@ -1,6 +1,6 @@
 This is a wrapper of pytrends. Fetch Google Trends data.
 
-Parameters
+Parameters<br>
 ----------
 timeframe : str, default 'today 3-m'
     Time range for data retrieval. Supported formats:
